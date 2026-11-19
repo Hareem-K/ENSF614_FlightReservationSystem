@@ -1,0 +1,106 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="_8O6LtwVgbWcYhw-IWiO">
+    <mxGraphModel grid="0" page="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-3" parent="1" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="70" y="185" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-4" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-3" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="200" as="sourcePoint" />
+            <mxPoint x="190" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-7" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-10" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-5" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="awaiting payment" vertex="1">
+          <mxGeometry height="40" width="110" x="180" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-35" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-6" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="Payment Cancelled" vertex="1">
+          <mxGeometry height="40" width="120" x="1430" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cancel" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-17" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-30" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-9" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="Entering Details" vertex="1">
+          <mxGeometry height="40" width="100" x="375" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="start payment" vertex="1">
+          <mxGeometry height="30" width="85" x="230" y="12" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-18" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-21" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-13" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="Validating Details" vertex="1">
+          <mxGeometry height="40" width="120" x="570" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-24" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-26" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-14" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="Entity" vertex="1">
+          <mxGeometry height="40" width="100" x="890" y="-120" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-27" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-29" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-15" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="Payment Failed" vertex="1">
+          <mxGeometry height="40" width="100" x="1070" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-34" edge="1" parent="1" source="VRlfIWkTTLtrvPNkVYHl-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="VRlfIWkTTLtrvPNkVYHl-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-16" parent="1" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;roundedPerimeter=1;" value="Payment Recorded" vertex="1">
+          <mxGeometry height="40" width="110" x="1250" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="submit payment details" vertex="1">
+          <mxGeometry height="30" width="150" x="460" y="-30" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[invalid] / show validation errors" vertex="1">
+          <mxGeometry height="30" width="180" x="370" y="-125" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[valid] / simulate result" vertex="1">
+          <mxGeometry height="30" width="140" x="710" y="-126" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="retry" vertex="1">
+          <mxGeometry height="30" width="60" x="730" y="16" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="cancel" vertex="1">
+          <mxGeometry height="30" width="60" x="1260" y="222" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-33" parent="1" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" value="" vertex="1">
+          <mxGeometry height="30" width="30" x="1690" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[successful] / save payment record" vertex="1">
+          <mxGeometry height="30" width="200" x="1040" y="-138" as="geometry" />
+        </mxCell>
+        <mxCell id="VRlfIWkTTLtrvPNkVYHl-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[unsuccessful] / show failure" vertex="1">
+          <mxGeometry height="30" width="170" x="960" y="-50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
